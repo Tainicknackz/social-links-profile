@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,7 +14,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -25,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![(./assets/screenshots/screenshot-desktop.png)]
-![(./assets/screenshots/screenshot-mobile.png)]
+![./assets/screenshots/screenshot-desktop.png]
+![./assets/screenshots/screenshot-mobile.png]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Tainicknackz/social-links-profile.git]
+- Live Site URL: [https://splendorous-croquembouche-271dd1.netlify.app/]
 
 ## My process
 
@@ -47,7 +46,6 @@ Users should be able to:
 I learned how to create effective hover and active states for elements using the [:hover] and [:active] CSS pseudo-classes.
 
 To see how you can add code snippets, see below:
-
 
 ```css
 .platforms p:hover,
@@ -72,7 +70,5 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Frontend Mentor - [(https://www.frontendmentor.io/profile/Tainicknack0505)]
-- GitHub - [(https://www.github.com/Tainicknackz)]
-
-
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Tainicknack0505]
+- GitHub - [https://www.github.com/Tainicknackz]
